@@ -1,6 +1,6 @@
-# AstroFlow - Logistics & Manufacturing Website Template
+# WHITE BRAND SOCIAL MEDIA
 
-A modern, professional Astro.js template for logistics, manufacturing, and supply chain companies. Built with React, Tailwind CSS, and TypeScript.
+Una pagina basada en astro para un examen de Entornos
 
 ![Astro](https://img.shields.io/badge/Astro-5.16.0-FF5D01?logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.2.0-61DAFB?logo=react&logoColor=black)
