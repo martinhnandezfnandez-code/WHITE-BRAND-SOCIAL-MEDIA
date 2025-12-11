@@ -7,12 +7,10 @@ export const SITE = {
 } as const;
 
 export const NAVIGATION = [
-  { name: 'Home', href: '/' },
-  { name: 'Capabilities', href: '/capabilities' },
-  { name: 'Use Cases', href: '/use-cases' },
-  { name: 'Facilities', href: '/facilities' },
-  { name: 'Request Quote', href: '/rfq' },
-  { name: 'Documentation', href: '/documentation' },
+  { name: 'CONÓCENOS WHITE BRAND SOCIAL MEDIA', href: '/' },
+  { name: '¿QUÉ HACEMOS?', href: '/capabilities' },
+  { name: 'CONTACTO', href: '/use-cases' },
+
 ] as const;
 
 export const SOCIAL_LINKS = {
